@@ -6,7 +6,6 @@ Requirements:
 
 Example API:
 - localhost:8080/addValue
-JSON Gets with format: 
 ```
 {
 	"baseValue": 100,
