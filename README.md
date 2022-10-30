@@ -2,4 +2,4 @@
 
 Requirements: 
 - JAVA VERSION 1.8.0_275
-- MYSQL
+- MYSQL (configuration in file db/nbp.sql)
